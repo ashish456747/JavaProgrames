@@ -1,5 +1,5 @@
 public class HelloWorld{
-	static int test(int x){
+	static void test(int x){
 		x=5;
 		System.out.println("from test: "+x);
 	}
