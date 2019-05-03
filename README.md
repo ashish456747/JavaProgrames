@@ -1,1 +1,3 @@
-Local and Global Variables
+##############################
+# Local and Global Variables #
+##############################
